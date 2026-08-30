@@ -40,27 +40,4 @@ The dashboard is divided into three sections:
 - Detailed loan-level analysis
 - User-friendly dashboard navigation
 
-## 📷 Dashboard Preview
-
-_Add dashboard screenshots here._
-
-## 📁 Project Structure
-
-```text
-Bank-Loan-Analysis/
-│
-├── Data/
-│   └── bank_loan_data.csv
-│
-├── PowerBI/
-│   └── Bank_Loan_Analysis.pbix
-│
-├── SQL/
-│   └── loan_analysis_queries.sql
-│
-├── Screenshots/
-│   ├── Highlights.png
-│   ├── Overview.png
-│   └── Details.png
-│
-└── README.md
+── README.md
